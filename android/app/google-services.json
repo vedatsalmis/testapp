@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA2V1AaDDjgryH41AUaHmhk4U1PQXW8f2U"
+          "current_key": ".env"
         }
       ],
       "services": {
